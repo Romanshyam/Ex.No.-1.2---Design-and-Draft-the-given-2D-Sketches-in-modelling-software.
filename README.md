@@ -35,6 +35,8 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
+ 
+ 
  ## OUTPUT
  ![Screenshot 2023-11-30 083335](https://github.com/Romanshyam/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/123962992/4bcc6b0e-9067-4cdd-83d5-3d142f5a73ea)
 
