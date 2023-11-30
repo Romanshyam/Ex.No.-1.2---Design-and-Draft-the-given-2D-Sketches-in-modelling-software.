@@ -38,7 +38,8 @@
  
  
  ## OUTPUT
- ![Screenshot 2023-11-30 083335](https://github.com/Romanshyam/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/123962992/4bcc6b0e-9067-4cdd-83d5-3d142f5a73ea)
+ ![Screenshot 2023-11-30 085336](https://github.com/Romanshyam/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/123962992/210b6306-3da4-4e5b-a356-beb3902662af)
+
 
 
  
